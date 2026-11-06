@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OExfilSim
+Comment=Exfiltration channel detector + offline simulator — pcap, Zeek, flows, DNS/ICMP/cloud/chunking
+Exec=OExfilSim
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OAttack;
+Keywords=OExfilSim;owlsec;exfiltration;pcap;zeek;dns;
